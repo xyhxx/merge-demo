@@ -5,3 +5,5 @@ const merge = 'merge';
 const b = 'b';
 
 const c = '2';
+
+const add = '1';
